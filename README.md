@@ -101,4 +101,3 @@ important as anything sidenote
         console.log<have a fantastic life>
 
 ![oldman]("https://raw.githubusercontent.com/Leuviah/effective-goggles/main/garyoldman.gif")
-
