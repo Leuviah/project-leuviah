@@ -1,7 +1,8 @@
    The Emerald⩙Tablets for working with Leuviah
     
     Special thank you and shout out to @PatrickAlphaC, Patrick Collins on YouTube.  
-    We give credit where it is due, may wealth and prosperity bless you and others around you for the rest of time.  
+    We give credit where it is due, may wealth and prosperity bless you 
+    and others around you for the rest of time.  
     Best of luck in all your endeavors.
  
 Lets get Froggy🐸
@@ -18,7 +19,6 @@ protected by copyright, business, and intellectual property rights.
 # ⪩Stellar⫻Labs 
 # ⪩Chainlink⫘
 # ⫡‎Everyone
- <a>href=("https:∬garyoldman-everone-yell.gif.notalink")</a>
  
 	It has to be UI/UX consumer accesible and integrated 
 # Web3⫘Governments
@@ -99,3 +99,6 @@ important as anything sidenote
 ⪩.exit
         
         console.log<have a fantastic life>
+
+![oldman]("https://raw.githubusercontent.com/Leuviah/effective-goggles/main/garyoldman.gif")
+
