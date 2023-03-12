@@ -18,12 +18,15 @@ protected by copyright, business, and intellectual property rights.
 # ⪩Chainlink⫘
 # ⫡‎Everyone
  <a>href=("https:∬garyoldman-everone-yell.gif.notalink")</a>
-# ⫔Web3 PayPal
-# ⫔Web3 Google
-# ⫔Web3 Amazon
-# ⫔Web3 Self Cu w/ advisors and social promotion
-# ⫔Web3 Real-world disaster relief
-# ⫔Web3 humanitarianism
+ 
+	It has to be UI/UX consumer accesible and integrated 
+# Web3⫘Governments
+# Web3⫔PayPal
+# Web3⫔Google
+# Web3⫔Amazon
+# Web3⫔Self Cu w/ advisors and social promotion
+# Web3⫔Real-world disaster relief
+# Web3⫔humanitarianism
 ⩶⩺mainland-shipping-aggregator⩹
 	⫺code them in no flak
 	⫸!blessall!
