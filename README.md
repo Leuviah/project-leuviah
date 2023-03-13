@@ -82,9 +82,11 @@ important as anything sidenote
 			vote on proposals. The web app is what I'll be calling our  "DAO Dashboard".
 			It's where our new members can join and it allows existing 			
 			members to see what the DAO is up to.
-
-
-
+# NExt
+		
+		🤯 Replit!
+We'll be using this thing called Replit! It is a browser-based IDE that lets us easily build web apps and deploy them all from the browser. 
+It is super legit. Instead of having to set up a full local environment and write commands to deploy, it's all just given to us.
 
 
 
