@@ -71,7 +71,30 @@ important as anything sidenote
     #Ⅹ‖ⅩⅩbottomline
     #Ⅹ‖ⅩⅩanxious
          ⩘          
+# Okay you made it this far
+		
+		🛠 Grab the client code + get setup.
 
+			💎 What we're going to do
+			We're going to build a web app for people to: connect their wallet → 
+			mint a membership NFT → receive a token airdrop → and actually 				
+			vote on proposals. The web app is what I'll be calling our  "DAO Dashboard".
+			It's where our new members can join and it allows existing 			
+			members to see what the DAO is up to.
+
+
+
+
+
+
+
+
+
+
+
+
+
+/*
 "Why do I feel like i'm fighting on my own."
 
 # ⊷unrelated-can-ignore⊶
