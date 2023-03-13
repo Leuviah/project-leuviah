@@ -39,7 +39,8 @@ important as anything sidenote
         
         ⩹donate to your local govenment entities⩺
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/uncomfy.gif" width="1980" height="480">
-
+@buildspace
+@thirdweb
 # Areas of focus
 @Solana Developers for the initial inspiration
 		
