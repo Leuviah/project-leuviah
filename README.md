@@ -159,7 +159,7 @@ important as anything sidenote
 	⪩!yell Security!
 	⪩Lets make the world a better place
 		∆
-		ϕ
+		ϕ 	("https://github.com/Leuviah/erif-emoceb")
 		∇
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/boogie.gif" width="1980" height="720">
 ©2023
