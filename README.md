@@ -10,7 +10,7 @@ Lets get Froggy🐸
 
 	⪩This is hard to understand fully without context;
 	protected by copyright, business, and intellectual property rights.
-	
+# ⪩It will offer insight into Project⩱Leuviah, and the nature under which Leuviah⩱ operates.
 # Project⩱Leuviah
 		a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. 
 		We are on a mission to ensure everyday people and businesses can own and control their devices, 
@@ -22,6 +22,7 @@ Lets get Froggy🐸
 		specify any vision or language task. Specifically, it generates text outputs (natural language, code, etc.) 
 		given inputs consisting of interspersed text and images. Over a range of domains—including 
 		documents with text and photographs, diagrams, or screenshots—
+		freeguy
 		*
 		Create Next Generation Dapps to Change the World.
 		Tokenize Real-World Objects, Facts, and Events.
@@ -100,13 +101,18 @@ Unity Through Repetition
 		pool.repayWithATokens(DAI.address, amount, 2);
 		// User must hold aDAI >= amount being rePae
 		ↈ
-		Eth<->IoTeX
-		
-<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/ange1.gif" width="1080" height="480">
+		EthIoTeX
+# Make sure that you are taking in this document as a whole, not as specific pieces of informaion.
+# Emerald-tablets, inception, the prestige, tenet 
+
+	Quantum computing is a type of computing that uses the principles of quantum mechanics to process information. Unlike classical computers that store information in bits that can only be in one state at a time (either 0 or 1), quantum computers use quantum bits, or qubits, which can be in multiple states simultaneously.
+
+	This allows quantum computers to perform certain calculations much faster than classical computers. For example, a quantum computer could factor large numbers much more efficiently than a classical computer, which is important for many cryptography applications.
+
+	Quantum computers rely on a concept called superposition, which allows a qubit to exist in multiple states at once, and entanglement, which allows qubits to be connected in a way that their states are correlated with each other.
 
 		⪩stable-c-protocol
 		⪩BAREBONES repo for foundational beginning's with Leuviah⩱
-# ⪩It will offer insight into Project⩱Leuviah, and the nature under which Leuviah⩱ operates.
 # ⪩Solana≋
 # ⪩Stellar⫻Labs 
 # ⪩Chainlink⫘
