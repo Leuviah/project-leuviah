@@ -43,10 +43,49 @@ Lets get Froggy🐸
 		user1-y{user2+y}
 		user0==,user1=^x,user2=^y
 		*
-		Allows user to repay with aToken in case the underlying 
-		borrowed asset is locked in the liquidity pool.
-		Example: User have stable DAI debt and also holds aDAI token
-		The user in this case can use aDAI to repay DAI debt in single transaction 
+
+Achieving Unity
+	
+Unity Through Similarity
+
+			A person perceives similar objects as a group or whole, 
+			whether it be similar shape, size, color, location, angle or value;
+			similarity is necessary before difference can be perceived.
+
+	
+Unity Through Proximity
+
+		Putting the separate elements close together so that they are seen as a total, 
+		related pattern rather than as separate entities.
+
+	
+Unity Through Continuation
+
+		Something continues (such as a line, edge or direction) from one form to another, 
+		carrying the viewer's eye smoothly from one to the next.
+
+	
+Unity Through Closure
+
+		Familiar shapes are more readily seen as complete than incomplete, 
+		creating a dynamic connection with the viewer when closure takes place.
+
+	
+Unity Through Figure/Ground
+
+		The eye and mind separate an object from its surroundings;
+		creating positive and negative space relationships which can be dynamic and ambiguous, 
+		offering more than one solution to the eye.
+
+	
+Unity Through Repetition
+
+		Elements repeat in various parts of the design to relate the parts to one another:
+		can be elements of line, color, shape, direction, type, etc.
+
+		machine⩶rePae with aToken in case the underlying is locked in pool.
+		Example: User have stable DAI debt and also holds aDAI
+		The user in this case can use aDAI to repay debt in single epoch 
 		without any approvals or having to withdraw their supplied liquidity 
 		to the poolusing repayWithATokens feature.
 		import { Contract, utils } from "ethers";
@@ -54,13 +93,10 @@ Lets get Froggy🐸
 		const pool = new Contract(POOL_ADDRESS, poolAbi, signer);
 		// repay amount of DAI debt using aDAI tokens
 		pool.repayWithATokens(DAI.address, amount, 2);
-		// User must hold aDAI >= amount being rep
+		// User must hold aDAI >= amount being rePae
 		ↈ
 		Eth<->IoTeX
-		iopay
-		burndrop
-		docsiotexio
-
+		
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/ange1.gif" width="1080" height="480">
 
 		⪩stable-c-protocol
@@ -170,6 +206,10 @@ It is super legit. Instead of having to set up a full local environment and writ
     Uses a high voltage electrode to ionize the gas molecules and drive them into the getter surface. These can achieve very low pressures and are important in ultrahigh vacuum (UHV) systems.[8]
 ⪩Dantes-inferno.exe
 
+		iopay
+		burndrop
+		docsiotexio
+		
 ⪩.exit
         
         console.log<have a fantastic life>
