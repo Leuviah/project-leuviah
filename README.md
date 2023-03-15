@@ -164,6 +164,8 @@ important as anything sidenote
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/boogie.gif" width="1980" height="720">
 ©2023
 # blameitontherain
+("https://github.com/Leuviah/erif-emoceb")
+
     ⪩dennislloyd_songs
 	   ⩗
     #Ⅹ‖ⅩⅩalien   
