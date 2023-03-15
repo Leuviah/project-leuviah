@@ -14,8 +14,8 @@ Lets get Froggy🐸
 # Project⩱Leuviah
 		a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. 
 		We are on a mission to ensure everyday people and businesses can own and control their devices, 
-		as well as the data/value they generate. By connecting the physical and digital worlds, d
-		emocratize access to machine-backed DApps, assets, and services to deliver value to users and 
+		as well as the data/value they generate. By connecting the physical and digital worlds, 
+		democratize access to machine-backed DApps, assets, and services to deliver value to users and 
 		fuel the new machine economy.
 		#
 		Create Next Generation Dapps to Change the World.
