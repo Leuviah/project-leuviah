@@ -8,10 +8,58 @@ Lets get Froggy🐸
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/b4storm.gif" width="1080" height="480">
 
-	⪩This is meant to be an informative journal of uncollected thoughs that is hard to understand fully without context;
+	⪩This is hard to understand fully without context;
 	protected by copyright, business, and intellectual property rights.
-	⪩The only reason it is public is so others who FULLY understand the context are able to get on board.
+	
 # Project⩱Leuviah
+		a decentralized ecosystem where humans and machines can interact with guaranteed security and trust. 
+		We are on a mission to ensure everyday people and businesses can own and control their devices, 
+		as well as the data/value they generate. By connecting the physical and digital worlds, d
+		emocratize access to machine-backed DApps, assets, and services to deliver value to users and 
+		fuel the new machine economy.
+		#
+		Create Next Generation Dapps to Change the World.
+		Tokenize Real-World Objects, Facts, and Events.
+		Push Trusted IoT Data to Smart Contracts.
+		Where you are the owner and beneficiary of your data, your privacy and your money.
+		Vision that devices are owned by the people and serve the people.
+		Joining the maconomy, people can now fully monetize their devices and
+		associated digital assets on a global scale.
+		#
+		∰ pythagorean-thermo
+		lock an equitoken to connect cross
+		 ∮minTearc20 lock cross wrap liqpool staking cross wrap >
+		minty>wrap>flash>flash
+		y=yearc20, x=xearc20
+		x=y, aToken=xearc20
+		  lock an equitok to connect cross
+			user 1 borrow x from user 0 for y
+		user1+x{user0-x}
+				user 2 pays user 1's x borrow
+		user2-x{user0+x}
+			user 1 xchn x<>y
+		user1-x{user1+y}
+			user 1 gives y to user 2
+		user1-y{user2+y}
+		user0==,user1=^x,user2=^y
+		*
+		Allows user to repay with aToken in case the underlying 
+		borrowed asset is locked in the liquidity pool.
+		Example: User have stable DAI debt and also holds aDAI token
+		The user in this case can use aDAI to repay DAI debt in single transaction 
+		without any approvals or having to withdraw their supplied liquidity 
+		to the poolusing repayWithATokens feature.
+		import { Contract, utils } from "ethers";
+		const poolAbi = require("./abis/pool.json");
+		const pool = new Contract(POOL_ADDRESS, poolAbi, signer);
+		// repay amount of DAI debt using aDAI tokens
+		pool.repayWithATokens(DAI.address, amount, 2);
+		// User must hold aDAI >= amount being rep
+		ↈ
+		Eth<->IoTeX
+		iopay
+		burndrop
+		docsiotexio
 
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/ange1.gif" width="1080" height="480">
 
@@ -88,17 +136,7 @@ important as anything sidenote
 We'll be using this thing called Replit! It is a browser-based IDE that lets us easily build web apps and deploy them all from the browser. 
 It is super legit. Instead of having to set up a full local environment and write commands to deploy, it's all just given to us.
 
-
-
-
-
-
-
-
-
-
 /*
-"Why do I feel like i'm fighting on my own."
 
 # ⊷unrelated-can-ignore⊶
    Ⅹ‖ⅩⅩ 
