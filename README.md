@@ -18,6 +18,11 @@ Lets get Froggy🐸
 		democratize access to machine-backed DApps, assets, and services to deliver value to users and 
 		fuel the new machine economy.
 		#
+		can accept a prompt of text and images, which—parallel to the text-only setting—lets the user
+		specify any vision or language task. Specifically, it generates text outputs (natural language, code, etc.) 
+		given inputs consisting of interspersed text and images. Over a range of domains—including 
+		documents with text and photographs, diagrams, or screenshots—
+		*
 		Create Next Generation Dapps to Change the World.
 		Tokenize Real-World Objects, Facts, and Events.
 		Push Trusted IoT Data to Smart Contracts.
