@@ -105,14 +105,19 @@ Unity Through Repetition
 # Make sure that you are taking in this document as a whole, not as specific pieces of informaion.
 # Emerald-tablets, inception, the prestige, tenet 
 
-	Quantum computing is a type of computing that uses the principles of quantum mechanics to process information. Unlike classical computers that store information in bits that can only be in one state at a time (either 0 or 1), quantum computers use quantum bits, or qubits, which can be in multiple states simultaneously.
+	Quantum computing is a type of computing that uses the principles of quantum mechanics to process information.
+	Unlike classical computers that store information in bits that can only be in one state at a time (either 0 or 1), 
+	quantum computers use quantum bits, or qubits, which can be in multiple states simultaneously.
 
-	This allows quantum computers to perform certain calculations much faster than classical computers. For example, a quantum computer could factor large numbers much more efficiently than a classical computer, which is important for many cryptography applications.
+	This allows quantum computers to perform certain calculations much faster than classical computers.
+	For example, a quantum computer could factor large numbers much more efficiently than a classical computer,
+	which is important for many cryptography applications.
 
-	Quantum computers rely on a concept called superposition, which allows a qubit to exist in multiple states at once, and entanglement, which allows qubits to be connected in a way that their states are correlated with each other.
+	Quantum computers rely on a concept called superposition, which allows a qubit to exist in multiple states at once,
+	and entanglement, which allows qubits to be connected in a way that their states are correlated with each other.
 
-		⪩stable-c-protocol
-		⪩BAREBONES repo for foundational beginning's with Leuviah⩱
+⪩stable-c-protocol
+⪩BAREBONES repo
 # ⪩Solana≋
 # ⪩Stellar⫻Labs 
 # ⪩Chainlink⫘
