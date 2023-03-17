@@ -6,6 +6,53 @@
     Best of luck in all your endeavors.
 Lets get Froggy🐸
 
+			>> We believe in the potential of AI to improve our lives
+			in big and small ways.
+			We need to make sure it's for the benefit of everyone.
+			>> For the first time, we're having machines move into roles
+			that have been the roles of human beings.
+			Might these technologies
+			have inadvertent effects on people and society?
+			Do they align with people's values, their ethics?
+			We needed to think through the implications, for our company.
+			>> Responsible AI is the approach that we take
+			to developing and deploying our technology
+			making sure our principles are brought to life
+			and that it empowers everyone
+			and is inclusive and accessible for people.
+			>> â€Apple.â€
+			>> â€Excellent!â€
+
+			>> The job of the office of responsible AI is
+			to put our principles into practice,
+			by operationalizing ethics across the company.
+			>> The Aether committee is responsible for deliberating about
+			hard, new questions.
+			>> We are sister organizations.
+
+			>> We have to think through what it means to detect bias,
+			make our systems more fair;
+			to detect errors and blind spots in our technologies,
+			and on thinking through the kinds of advice
+			we give to other organizations, and to our leaders,
+			where technology can impose on privacy and human rights.
+			Responsibility is at the core.
+
+			We're learning, every day, about this new role
+			of responsible computing.
+			>> We need to translate academic thought
+			to language that our engineers and
+			sales people are familiar with.
+			Our customers are grappling with many of the same issues.
+			It's incumbent on us to share what we learn.
+
+			>> Itâ€™s about trying to do better every day;
+			working with our customers,
+			and outside agencies, to develop processes, and deliver
+			responsible computing technologies to the world.
+
+
+
 <img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);" src="https://raw.githubusercontent.com/Leuviah/effective-goggles/main/b4storm.gif" width="1080" height="480">
 
 	⪩This is hard to understand fully without context;
